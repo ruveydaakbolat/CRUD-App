@@ -1,4 +1,4 @@
-## React CRUD App Project
+# React CRUD App Project
 
 # Getting Started with Create React App
 
