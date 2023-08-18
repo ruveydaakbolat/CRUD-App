@@ -1,0 +1,42 @@
+CRUD App
+
+Create Read Update Delete
+
+
+1- Create form to get new element to be added:
+
+    Get the data and transfer it to state
+
+    Create a new object with the information entered in the form when the add button is pressed
+
+    Values ​​of the created object: id, date, bookName, itRead
+
+    Transfer the resulting object to an array named books
+
+    Reset input after object creation
+
+2- Take books from books state and list them using the map method:
+
+    > If the state is empty, write "the book has not been added" on the screen
+    > Send book information as prop to bookcard component
+    > Show all book related properties in bookcard component
+
+3-  Deleting books:
+
+    > When the delete button of any book is pressed, the id of the button goes to the function
+    > Transfer those that are not equal to the id in the function to the state
+    
+
+4-  Mark the book as read:
+    
+    > When you press the read button, send the book to the function
+    > Reverse the itRead value
+    > Find an element to change in the array
+    > Remove the element and add a new element
+
+5-  Do the editing:
+
+    > Click the edit button and bring a modal to the screen
+    > Create input to change the title of the book
+    > Turn off modal with the cancel button
+    > The save button takes the input content and updates the state
