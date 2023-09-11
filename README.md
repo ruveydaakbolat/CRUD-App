@@ -3,6 +3,9 @@
 ### `Deploy`
 https://crud-application-project.netlify.app/
 
+### `Screen`
+![bookstore](https://github.com/ruveydaakbolat/CRUD-App/assets/54941922/fc06768b-90f9-41bb-9915-724f05d93e65)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
